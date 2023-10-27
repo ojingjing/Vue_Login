@@ -63,6 +63,7 @@ https://cp.omin.kr/
 <img width="1190" alt="image" src="https://github.com/ojingjing/Vue_Login/assets/48702158/e625b920-0bc1-43a1-8771-eb08f22863d0">     
 <img width="876" alt="image" src="https://github.com/ojingjing/Vue_Login/assets/48702158/ce1e9169-f72b-40fb-b3a1-b0713f5528b2">    
 <img width="865" alt="image" src="https://github.com/ojingjing/Vue_Login/assets/48702158/bf554c8e-d794-417d-b6cb-8c8e7d1238fe">     
+환경설정 완료!!    
 <img width="1459" alt="image" src="https://github.com/ojingjing/Vue_Login/assets/48702158/962c4dbc-5c78-4ade-b219-47bd29f81256">                 
 
 
